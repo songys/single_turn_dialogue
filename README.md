@@ -7,9 +7,9 @@
 -  실제 추출에는 다음 링크에서 다운로드(2020/03/25) 받아 둔 데이터를 사용했음
 https://github.com/spellcheck-ko/korean-dict-nikl 
 
-#저작권 
+# 저작권      
 원천 데이터인 한국어 기초 사전 사전과 동일한 크리에이티브 커먼즈 저작자표시-동일조건변경허락 2.0 대한민국 라이선스
 
 # Quick peek
 
-![quick_peek](./gpt.png)
+![quick_peek](./dict.png)
