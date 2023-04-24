@@ -2,7 +2,7 @@
 [한국어 기초 사전](https://krdict.korean.go.kr/mainAction)에서 대화로 구성된 예문만 추출한 데이터
 
 
--  실제 추출에는 다음 링크에서 다운로드(2020/03/25) 받아 둔 데이터를 사용했음
+-  실제 추출에는 다음 링크에서 다운로드(2020/03/25) 받아 둔 데이터를 사용
 https://github.com/spellcheck-ko/korean-dict-nikl 
 
 
